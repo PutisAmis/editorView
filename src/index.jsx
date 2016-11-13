@@ -1,4 +1,4 @@
 import Persona from './persona'
 
-const carlos = new Persona('Ismael')
-carlos.saluda()
+const ismael = new Persona('Ismael')
+ismael.saluda()
